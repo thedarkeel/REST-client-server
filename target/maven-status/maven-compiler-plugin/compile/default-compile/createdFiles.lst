@@ -1,0 +1,6 @@
+gr/teiath/restserver/JSONService.class
+gr/teiath/utils/RestUtilities.class
+gr/teiath/Movie.class
+gr/teiath/Rate.class
+gr/teiath/Movie_info.class
+gr/teiath/Movie_ratings.class
